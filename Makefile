@@ -10,4 +10,3 @@ runtests.o: List.h
 
 clean:
 	rm -f runtests *.o
-
